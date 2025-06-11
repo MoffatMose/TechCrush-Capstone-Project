@@ -5,8 +5,8 @@ Welcome to the **TechCrush Capstone Project**! This repository contains the code
 
 ## Project Overview
 
-TechCrush is a data analytics project that leverages the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) to explore and predict the likelihood of diabetes in patients based on medical attributes.  
-This project is intended for evaluation purposes only and showcases the use of Jupyter Notebooks and Kaggle Notebooks for data exploration, preprocessing, visualization, and predictive modeling.
+TechCrush is a data analytics project that leverages the [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) to explore and predict the likelihood of diabetes in patients based on medical features.  
+This project is intended for evaluation purposes only and showcases content thought on data science by TechCrush Academy data exploration, preprocessing, visualization, and predictive modeling.
 
 ## Data Source
 
