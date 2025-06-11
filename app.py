@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 app = Flask(__name__)
-model = joblib.load('xgb_model.pkl')
+model = joblib.load('rf_model.pkl')
 
 FEATURES = [
     'Glucose',
