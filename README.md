@@ -1,5 +1,5 @@
 
-# TechCrush Capstone Project
+# [TechCrush Capstone Project](https://www.kaggle.com/code/mlinks/diabeates-disease-prediction)
 
 Welcome to the **TechCrush Capstone Project**! This repository contains the codebase and documentation for a capstone project designed to demonstrate data analysis and machine learning skills using a real-world healthcare dataset.
 
