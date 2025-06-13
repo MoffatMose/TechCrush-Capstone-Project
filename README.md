@@ -28,6 +28,8 @@ This project is intended for evaluation purposes only and showcases content thou
 - Machine learning models for diabetes prediction (e.g., logistic regression, decision trees)
 - Evaluation and comparison of model performance
 
+- ACCESS [final model here](
+https://www.kaggle.com/code/mlinks/diabeates-disease-prediction)
 ## Getting Started
 
 ### Prerequisites
